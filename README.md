@@ -23,6 +23,6 @@
 </div>
   -->
  
- ![Snake animation](https://github.com/bwolfs2/bwolfs2/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://raw.githubusercontent.com/edalicioh/edalicioh/main/github-contribution-grid-snake.svg)
  
   
